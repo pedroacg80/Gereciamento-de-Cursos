@@ -1,0 +1,67 @@
+CREATE DATABASE GerenciamentoCursos
+GO
+
+USE GerenciamentoCursos
+GO
+
+CREATE TABLE AreaEspecializacao
+(
+AreaID INT IDENTITY PRIMARY KEY,
+Nome NVARCHAR(40)
+)
+GO
+
+CREATE TABLE Instrutor 
+(
+InstrutorID INT IDENTITY PRIMARY KEY,
+Nome VARCHAR(50) NOT NULL,
+Email VARCHAR (80) NOT NULL UNIQUE,
+Senha VARBINARY(32),
+AreaEspecializacaoID INT,
+CONSTRAINT FK_Instrtutor_AreaEspecializacao_AreaEspecializacaoId FOREIGN KEY (AreaEspecializacaoId) REFERENCES AreaEspecializacao (AreaID) ON DELETE CASCADE
+);
+GO
+
+CREATE TABLE Curso
+(
+CursoID INT IDENTITY PRIMARY KEY,
+Nome NVARCHAR (80) NOT NULL UNIQUE,
+Descricao NVARCHAR (max) NOT NULL,
+CargaHoraria INT NOT NULL,
+InstrutorID INT NOT NULL,
+CONSTRAINT FK_Curso_Instrutor_InstrutorId FOREIGN KEY (InstrutorID) REFERENCES Instrutor(InstrutorID)
+);
+GO
+
+CREATE TABLE InstrutorCurso 
+(
+IntrutorID INT NOT NULL,
+CursoID INT NOT NULL,
+CONSTRAINT PK_IntrutorCurso_InstrutorID_CursoID PRIMARY KEY (IntrutorID, CursoID),
+CONSTRAINT FK_IntrutorCurso_InstrutorID FOREIGN KEY (IntrutorID) REFERENCES Instrutor (InstrutorID) ON DELETE CASCADE,
+CONSTRAINT FK_IntrutorCurso_CursoId  FOREIGN KEY (CursoID) REFERENCES Curso (CursoID) ON DELETE CASCADE,
+);
+GO
+
+CREATE TABLE Aluno
+(
+AlunoId INT IDENTITY PRIMARY KEY,
+Nome VARCHAR (80) NOT NULL,
+Email VARCHAR (80) NOT NULL UNIQUE,
+Senha VARBINARY(32)
+);
+GO
+
+CREATE TABLE Matricula
+(
+CursoID INT,
+AlunoID INT,
+NumeroMatricula INT, 
+StatusMatricula BIT DEFAULT 1,
+
+CONSTRAINT PK_CursoAluno_CursoID_AlunoID PRIMARY KEY (CursoID, AlunoID),
+CONSTRAINT FK_CursoAluno_CursoID FOREIGN KEY (CursoID) REFERENCES Curso (CursoID) ON DELETE CASCADE,
+CONSTRAINT FK_CursoAluno_AlunoID FOREIGN KEY (AlunoID) REFERENCES Aluno (AlunoID) ON DELETE CASCADE,
+);
+GO
+
