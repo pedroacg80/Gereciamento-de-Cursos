@@ -53,5 +53,18 @@ namespace Gerenciamento_Cursos.Controllers
             }
         }
 
+        [HttpDelete]
+        public ActionResult Remover(int id)
+        {
+            try
+            {
+                _service.Remover(id);
+                return Ok();
+            }
+            catch (DomainException ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
     }
 }

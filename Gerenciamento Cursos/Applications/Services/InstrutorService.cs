@@ -114,5 +114,16 @@ namespace Gerenciamento_Cursos.Applications.Services
             return LerDto(instrutorBanco);
         }
 
+        public void Remover(int id)
+        {
+            Instrutor instrutor = _repository.ObterPorId(id);
+
+            if (instrutor == null)
+            {
+                throw new DomainException("Instrutor nao encontrado");
+            }
+
+            _repository.Remover(id);
+        }
     }
 }
