@@ -6,7 +6,7 @@ namespace Gerenciamento_Cursos.Interfaces
     {
         List<AreaEspecializacao> Listar();
         AreaEspecializacao? ObterPorId(int id);
-        bool AreaExiste(string nome, int? areaIdAtual = null);
+        bool AreaExiste(string nome);
         void Adicionar(AreaEspecializacao area);
         void Atualizar(AreaEspecializacao area);
         void Remover(int id);

@@ -7,14 +7,6 @@
       "RelativeMoniker": "D:0:0:{B16EC6CE-9229-2296-D09C-686862A69C34}|Gerenciamento Cursos\\Gerenciamento Cursos.csproj|solutionrelative:gerenciamento cursos\\applications\\services\\areaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B16EC6CE-9229-2296-D09C-686862A69C34}|Gerenciamento Cursos\\Gerenciamento Cursos.csproj|c:\\users\\49078790830\\desktop\\gerenciamento cursos\\gerenciamento cursos\\repositories\\instrutorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B16EC6CE-9229-2296-D09C-686862A69C34}|Gerenciamento Cursos\\Gerenciamento Cursos.csproj|solutionrelative:gerenciamento cursos\\repositories\\instrutorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B16EC6CE-9229-2296-D09C-686862A69C34}|Gerenciamento Cursos\\Gerenciamento Cursos.csproj|c:\\users\\49078790830\\desktop\\gerenciamento cursos\\gerenciamento cursos\\applications\\services\\instrutorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B16EC6CE-9229-2296-D09C-686862A69C34}|Gerenciamento Cursos\\Gerenciamento Cursos.csproj|solutionrelative:gerenciamento cursos\\applications\\services\\instrutorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B16EC6CE-9229-2296-D09C-686862A69C34}|Gerenciamento Cursos\\Gerenciamento Cursos.csproj|c:\\users\\49078790830\\desktop\\gerenciamento cursos\\gerenciamento cursos\\repositories\\arearepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B16EC6CE-9229-2296-D09C-686862A69C34}|Gerenciamento Cursos\\Gerenciamento Cursos.csproj|solutionrelative:gerenciamento cursos\\repositories\\arearepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,12 +19,24 @@
       "RelativeMoniker": "D:0:0:{B16EC6CE-9229-2296-D09C-686862A69C34}|Gerenciamento Cursos\\Gerenciamento Cursos.csproj|solutionrelative:gerenciamento cursos\\interfaces\\iinstrutorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B16EC6CE-9229-2296-D09C-686862A69C34}|Gerenciamento Cursos\\Gerenciamento Cursos.csproj|c:\\users\\49078790830\\desktop\\gerenciamento cursos\\gerenciamento cursos\\controllers\\instrutorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B16EC6CE-9229-2296-D09C-686862A69C34}|Gerenciamento Cursos\\Gerenciamento Cursos.csproj|solutionrelative:gerenciamento cursos\\controllers\\instrutorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B16EC6CE-9229-2296-D09C-686862A69C34}|Gerenciamento Cursos\\Gerenciamento Cursos.csproj|c:\\users\\49078790830\\desktop\\gerenciamento cursos\\gerenciamento cursos\\dtos\\areaespecializacao\\criarareadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16EC6CE-9229-2296-D09C-686862A69C34}|Gerenciamento Cursos\\Gerenciamento Cursos.csproj|solutionrelative:gerenciamento cursos\\dtos\\areaespecializacao\\criarareadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B16EC6CE-9229-2296-D09C-686862A69C34}|Gerenciamento Cursos\\Gerenciamento Cursos.csproj|c:\\users\\49078790830\\desktop\\gerenciamento cursos\\gerenciamento cursos\\applications\\regras\\validar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B16EC6CE-9229-2296-D09C-686862A69C34}|Gerenciamento Cursos\\Gerenciamento Cursos.csproj|solutionrelative:gerenciamento cursos\\applications\\regras\\validar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16EC6CE-9229-2296-D09C-686862A69C34}|Gerenciamento Cursos\\Gerenciamento Cursos.csproj|c:\\users\\49078790830\\desktop\\gerenciamento cursos\\gerenciamento cursos\\applications\\services\\instrutorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16EC6CE-9229-2296-D09C-686862A69C34}|Gerenciamento Cursos\\Gerenciamento Cursos.csproj|solutionrelative:gerenciamento cursos\\applications\\services\\instrutorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16EC6CE-9229-2296-D09C-686862A69C34}|Gerenciamento Cursos\\Gerenciamento Cursos.csproj|c:\\users\\49078790830\\desktop\\gerenciamento cursos\\gerenciamento cursos\\repositories\\instrutorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16EC6CE-9229-2296-D09C-686862A69C34}|Gerenciamento Cursos\\Gerenciamento Cursos.csproj|solutionrelative:gerenciamento cursos\\repositories\\instrutorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16EC6CE-9229-2296-D09C-686862A69C34}|Gerenciamento Cursos\\Gerenciamento Cursos.csproj|c:\\users\\49078790830\\desktop\\gerenciamento cursos\\gerenciamento cursos\\controllers\\instrutorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16EC6CE-9229-2296-D09C-686862A69C34}|Gerenciamento Cursos\\Gerenciamento Cursos.csproj|solutionrelative:gerenciamento cursos\\controllers\\instrutorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B16EC6CE-9229-2296-D09C-686862A69C34}|Gerenciamento Cursos\\Gerenciamento Cursos.csproj|c:\\users\\49078790830\\desktop\\gerenciamento cursos\\gerenciamento cursos\\dtos\\instrutor\\lerinstrutordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,8 +66,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CriarAreaDto.cs",
+              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gerenciamento Cursos\\Gerenciamento Cursos\\DTOs\\AreaEspecializacao\\CriarAreaDto.cs",
+              "RelativeDocumentMoniker": "Gerenciamento Cursos\\DTOs\\AreaEspecializacao\\CriarAreaDto.cs",
+              "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gerenciamento Cursos\\Gerenciamento Cursos\\DTOs\\AreaEspecializacao\\CriarAreaDto.cs",
+              "RelativeToolTip": "Gerenciamento Cursos\\DTOs\\AreaEspecializacao\\CriarAreaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T11:05:42.788Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -72,40 +89,40 @@
               "RelativeDocumentMoniker": "Gerenciamento Cursos\\Applications\\Services\\AreaService.cs",
               "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gerenciamento Cursos\\Gerenciamento Cursos\\Applications\\Services\\AreaService.cs",
               "RelativeToolTip": "Gerenciamento Cursos\\Applications\\Services\\AreaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAIA9wDwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T12:50:10.148Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "AreaRepository.cs",
               "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gerenciamento Cursos\\Gerenciamento Cursos\\Repositories\\AreaRepository.cs",
               "RelativeDocumentMoniker": "Gerenciamento Cursos\\Repositories\\AreaRepository.cs",
               "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gerenciamento Cursos\\Gerenciamento Cursos\\Repositories\\AreaRepository.cs",
               "RelativeToolTip": "Gerenciamento Cursos\\Repositories\\AreaRepository.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAAwEIAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T11:13:14.185Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "IAreaRepository.cs",
               "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gerenciamento Cursos\\Gerenciamento Cursos\\Interfaces\\IAreaRepository.cs",
               "RelativeDocumentMoniker": "Gerenciamento Cursos\\Interfaces\\IAreaRepository.cs",
               "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gerenciamento Cursos\\Gerenciamento Cursos\\Interfaces\\IAreaRepository.cs",
               "RelativeToolTip": "Gerenciamento Cursos\\Interfaces\\IAreaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T11:11:18.199Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "InstrutorController.cs",
               "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gerenciamento Cursos\\Gerenciamento Cursos\\Controllers\\InstrutorController.cs",
               "RelativeDocumentMoniker": "Gerenciamento Cursos\\Controllers\\InstrutorController.cs",
@@ -113,12 +130,11 @@
               "RelativeToolTip": "Gerenciamento Cursos\\Controllers\\InstrutorController.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAA0wDwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T13:30:25.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T13:30:25.07Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Validar.cs",
               "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gerenciamento Cursos\\Gerenciamento Cursos\\Applications\\Regras\\Validar.cs",
               "RelativeDocumentMoniker": "Gerenciamento Cursos\\Applications\\Regras\\Validar.cs",
@@ -131,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "DomainException.cs",
               "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gerenciamento Cursos\\Gerenciamento Cursos\\Exceptions\\DomainException.cs",
               "RelativeDocumentMoniker": "Gerenciamento Cursos\\Exceptions\\DomainException.cs",
@@ -143,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "LerInstrutorDto.cs",
               "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gerenciamento Cursos\\Gerenciamento Cursos\\DTOs\\Instrutor\\LerInstrutorDto.cs",
               "RelativeDocumentMoniker": "Gerenciamento Cursos\\DTOs\\Instrutor\\LerInstrutorDto.cs",
@@ -155,20 +171,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "InstrutorService.cs",
               "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gerenciamento Cursos\\Gerenciamento Cursos\\Applications\\Services\\InstrutorService.cs",
               "RelativeDocumentMoniker": "Gerenciamento Cursos\\Applications\\Services\\InstrutorService.cs",
               "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gerenciamento Cursos\\Gerenciamento Cursos\\Applications\\Services\\InstrutorService.cs",
               "RelativeToolTip": "Gerenciamento Cursos\\Applications\\Services\\InstrutorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAmwFcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-25T12:08:45.441Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Matricula.cs",
               "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gerenciamento Cursos\\Gerenciamento Cursos\\Domains\\Matricula.cs",
               "RelativeDocumentMoniker": "Gerenciamento Cursos\\Domains\\Matricula.cs",
@@ -180,20 +196,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "InstrutorRepository.cs",
               "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gerenciamento Cursos\\Gerenciamento Cursos\\Repositories\\InstrutorRepository.cs",
               "RelativeDocumentMoniker": "Gerenciamento Cursos\\Repositories\\InstrutorRepository.cs",
               "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gerenciamento Cursos\\Gerenciamento Cursos\\Repositories\\InstrutorRepository.cs",
               "RelativeToolTip": "Gerenciamento Cursos\\Repositories\\InstrutorRepository.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAcwCcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-25T11:35:25.958Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Gerenciamento Cursos.csproj",
               "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gerenciamento Cursos\\Gerenciamento Cursos\\Gerenciamento Cursos.csproj",
               "RelativeDocumentMoniker": "Gerenciamento Cursos\\Gerenciamento Cursos.csproj",
@@ -205,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "IInstrutorRepository.cs",
               "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gerenciamento Cursos\\Gerenciamento Cursos\\Interfaces\\IInstrutorRepository.cs",
               "RelativeDocumentMoniker": "Gerenciamento Cursos\\Interfaces\\IInstrutorRepository.cs",
@@ -218,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "GerenciamentoCursosContext.cs",
               "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gerenciamento Cursos\\Gerenciamento Cursos\\Contexts\\GerenciamentoCursosContext.cs",
               "RelativeDocumentMoniker": "Gerenciamento Cursos\\Contexts\\GerenciamentoCursosContext.cs",

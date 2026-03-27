@@ -23,14 +23,9 @@ namespace Gerenciamento_Cursos.Repositories
             return _context.AreaEspecializacao.Find(id);
         }
 
-        public bool AreaExiste(string nome, int? areaIdAtual = null)
+        public bool AreaExiste(string nome)
         {
             var consulta = _context.AreaEspecializacao.AsQueryable();
-
-            if (areaIdAtual.HasValue)
-            {
-                consulta = consulta.Where(area => area.AreaID != areaIdAtual.Value);
-            }
 
             return consulta.Any(a => a.Nome == nome);
         }
